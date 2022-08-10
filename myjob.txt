@@ -1,0 +1,21 @@
+Java Programmer
+ตำแหน่ง จาวาโปรแกรมเมอร์
+
+Aware Outsourcing Services Corporation (Thailand) Ltd.
+
+Responsibilities:
+
+> Designing and implementing Java-based applications
+> Analyzing user requirements to inform application design
+> Debugging and resolving technical problems that arise
+> Ensuring continuous professional self-development
+> Contribute to work with key partners as required
+
+Requirements:
+
+> At least Bachelor’s Degree in Computer Science, Computer Engineering, Software Engineer, IT or related fields.
+> At least 1 year's working experience in Java platform programming.
+> Proficient in Java and experience in developing web applications using web framework (JSF,  Spring MVC, Spring Boots)
+> Experience with user interface design and database structures
+> Proactive, self-motivated, systematic thinking, fast learner and positive attitude in teamwork.
+> Familiar with various design and architectural patterns
