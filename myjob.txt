@@ -12,9 +12,19 @@ Responsibilities:
 > Ensuring continuous professional self-development
 > Contribute to work with key partners as required
 
+> การออกแบบและการใช้งานแอปพลิเคชันบน Java
+> วิเคราะห์ความต้องการของผู้ใช้เพื่อแจ้งการออกแบบแอพพลิเคชั่น
+> การดีบักและการแก้ไขปัญหาทางเทคนิคที่เกิดขึ้น
+> สร้างความมั่นใจในการพัฒนาตนเองอย่างมืออาชีพอย่างต่อเนื่อง
+> มีส่วนร่วมทำงานร่วมกับพันธมิตรหลักตามความจำเป็น
+
 Requirements:
 คุณสมบัติที่ต้องการ
 
 > At least Bachelor’s Degree in Computer Science, Computer Engineering, Software Engineer, IT or related fields.
 > At least 1 year's working experience in Java platform programming.
 > Proficient in Java and experience in developing web applications using web framework
+
+> อย่างน้อยปริญญาตรีในสาขาวิทยาการคอมพิวเตอร์, วิศวกรรมคอมพิวเตอร์, วิศวกรซอฟต์แวร์, ไอทีหรือสาขาที่เกี่ยวข้อง
+> มีประสบการณ์การทำงานอย่างน้อย 1 ปีในการเขียนโปรแกรมแพลตฟอร์ม Java
+> มีความเชี่ยวชาญใน Java และประสบการณ์ในการพัฒนาเว็บแอปพลิเคชันโดยใช้กรอบงานเว็บ
